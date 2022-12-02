@@ -9,7 +9,7 @@ void main() async {
       title: "KOSTin",
       theme: theme(),
       initialRoute: LoginScreen.routeName,
-      routes: AppPages.routes,
+      // routes: AppPages.routes,
       debugShowCheckedModeBanner: false,
     ),
       
