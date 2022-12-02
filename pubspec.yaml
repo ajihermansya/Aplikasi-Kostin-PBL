@@ -10,19 +10,16 @@ dependencies:
   get: 4.6.5
   flutter: 
     sdk: flutter
+  google_fonts: ^3.0.1
+  flutter_svg: ^0.22.0
+  simple_shadow: ^0.2.0
 
 dev_dependencies: 
   flutter_lints: ^2.0.0
   flutter_test: 
     sdk: flutter
 
-flutter_icons:
-  android: true
-  ios: true
-  # image: "assets/logo/logo.png"
-  image_path: "assets/logo/logo.png"
-
-flutter:
+flutter: 
   uses-material-design: true
   assets:
     - assets/icons/
