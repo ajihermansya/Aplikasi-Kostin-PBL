@@ -25,10 +25,10 @@ class AppPages {
     //   page: () => LoginView(),
     //   binding: LoginBinding(),
     // ),
-    GetPage(
-      name: _Paths.REGISTER,
-      page: () => RegisterView(),
-      binding: RegisterBinding(),
-    ),
+    // GetPage(
+    //   name: _Paths.REGISTER,
+    //   page: () => RegisterView(),
+    //   binding: RegisterBinding(),
+    // ),
   ];
 }
